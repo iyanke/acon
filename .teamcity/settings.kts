@@ -34,7 +34,7 @@ object Acon : BuildType({
     name = "Acon"
 
     dependencies {
-        snapshot(BCon) {
+        snapshot(CCon) {
         }
     }
 })
